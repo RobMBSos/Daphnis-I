@@ -1,5 +1,7 @@
 //
-// Created by rovem on 5/2/2024.
+// Created by RobertoMB on 5/2/2024.
+// AT Commands for Daphnis-I
+// https://www.we-online.com/components/products/manual/2618011181000_UM_Daphnis-I_2618011181000_V1_0_rev1.pdf
 //
 
 #ifndef DAPHNIS_H
